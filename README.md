@@ -32,10 +32,4 @@ Git | Visual Studio Code | Visual Studio | Jira | Postman | Vercel | REST API
 
 ---
 
-## 🚀 Fun Fact
-
-[Insert a quick fun fact, e.g., "I automate my morning coffee routine with a Raspberry Pi!"]
-
----
-
 Feel free to explore my repositories or reach out if you'd like to collaborate!

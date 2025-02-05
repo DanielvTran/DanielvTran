@@ -14,7 +14,7 @@ I am a full-stack web developer with a passion for building modern, user-friendl
 HTML | CSS | JavaScript | TypeScript | Svelte | GraphQL
 
 ### **Libraries & Frameworks**:
-React | Node.js | Express.js | Playwright
+React | Next.js | Node.js | Express.js | Playwright
 
 ### **Databases**:
 MySQL | MongoDB | Firebase

@@ -28,7 +28,7 @@ Git | Visual Studio Code | Visual Studio | Jira | Postman | Vercel | REST API
 
 - **Email**: [danieltran.softwaredev@gmail.com](mailto:danieltran.softwaredev@gmail.com)
 - **LinkedIn**: [https://www.linkedin.com/in/daniel-tran-19a9b4225/](https://www.linkedin.com/in/daniel-tran-19a9b4225/)
-- **Portfolio**: [https://portfolio-pi-nine-75.vercel.app/](https://portfolio-pi-nine-75.vercel.app/)
+- **Portfolio**: [https://danieltran.vercel.app/](https://danieltran.vercel.app/)
 
 ---
 
